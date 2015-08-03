@@ -1,5 +1,8 @@
-#Fábrica de Navios
-
+#Fábrica de Navios / Decorador rotas
+## Adicionando as rotas da malha aquaviária, com o padrão decorator
+### O padrão Decorator adiciona funcionalidades ao objeto em tempo de execução.
+(Nesse caso, Add Nome e Fator)
+![](https://github.com/alitigeller/FabricaNaviosV3/blob/master/Class%20Diagram0.png?raw=true)
 
 ###Incremento da Fábrica de Navios V2 ([FabricaNaviosV2](http://alitigeller.github.io/FabricanaviosV2/)), que implementa os padrões Factory Method, Abstract Factory, Protótipo e Singleton, acrescentando o padrão Builder.
 
